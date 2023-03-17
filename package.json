@@ -1,0 +1,22 @@
+{
+  "name": "superhero-deck",
+  "version": "1.0.0",
+  "description": "gerador de card super-hero",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caueperuque/superhero-deck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caueperuque/superhero-deck/issues"
+  },
+  "homepage": "https://github.com/caueperuque/superhero-deck#readme",
+  "type": "module",
+  "dependencies": {
+    "vite": "^4.2.0"
+  }
+}
