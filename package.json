@@ -5,7 +5,8 @@
   "main": "main.js",
   "scripts": {
     "dev": "vite --open",
-    "lint": "eslint ./src"
+    "lint": "eslint ./src",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
