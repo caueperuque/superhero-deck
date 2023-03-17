@@ -1,3 +1,3 @@
 # SuperHeroes deck
 
-Link para acessar => super-heroes-deck.surge.sh
+Link para acessar => https://super-heroes-deck.surge.sh/
